@@ -69,7 +69,11 @@ main{
     width: 45%;
 }
 
-.right-col, .mainprod{
+.bb{
+    
+}
+
+.right-col, .   {
  flex-grow: 1;   
 }
 
@@ -148,7 +152,7 @@ p.employees{
     
 }
 
-p.details{
+p.details, .pdetails{
     font-size: 1.4rem;
     margin: 0;
 }
